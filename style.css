@@ -1,0 +1,34 @@
+body{
+    background-color:rgba(0, 0, 0, 0.582);
+}
+
+h1{
+    padding: auto;
+    margin: 2%;
+    color: rgb(255, 255, 255);
+    background-color: rgb(89, 100, 121);
+    width: 650px;
+ 
+
+    
+}
+
+h2{
+    margin: 2%;
+    color: rgb(255, 255, 255);
+
+}
+img{
+width: 650PX;
+margin: 2%;
+border-radius: 2%;
+}
+
+
+
+footer{
+   margin: 2%;
+    color:rgb(255, 255, 255);
+    background-color: rgb(89, 100, 121);
+    width: 650px;
+}
