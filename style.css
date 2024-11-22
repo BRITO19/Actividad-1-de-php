@@ -19,15 +19,16 @@ h2{
 
 }
 img{
-width: 650PX;
+margin: 1.5%;
 border-radius: 2%;
+width: 670px;
 }
 
 
 
 footer{
-   margin: 2%;
     color:rgb(255, 255, 255);
     background-color: rgb(89, 100, 121);
     width: 650px;
+    font-size: larger;
 }
